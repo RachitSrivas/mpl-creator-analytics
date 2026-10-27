@@ -236,4 +236,4 @@ work/
 ```
 
 ---
-*Built for Mobile Premier League (MPL) UGC Data Analytics Technical Assessment.*
+
